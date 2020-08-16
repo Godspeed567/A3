@@ -1,4 +1,4 @@
-X_train <- read.table("train/X_train.txt")               ## readsthe training set
+X_train <- read.table("train/X_train.txt")               ## reads training set
 y_train <- read.table("train/y_train.txt")               ## reads training labels
 subject_train <- read.table("train/subject_train.txt")   ## reads subjects
 
